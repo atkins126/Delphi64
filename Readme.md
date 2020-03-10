@@ -29,12 +29,10 @@ Another test, a ISAPI, on I9 cpu and windows 2016, doing in sequence DB query ->
 
 If you want enable accelerated zlib programmatically into your WebBroker app, just add one line of code in afterdispatch event:
 
-procedure TWebModule.WebModuleAfterDispatch(Sender: TObject; Request: TWebRequest; Response: TWebResponse; var Handled: Boolean); 
-begin 
-
-  Response.ZlibDeflate; 
-
-end;
+- procedure TWebModule.WebModuleAfterDispatch(Sender: TObject; Request: TWebRequest; Response: TWebResponse; var Handled: Boolean); 
+- begin 
+-  Response.ZlibDeflate; 
+- end;
 
 The library is well tested, but if you found any trouble please notify me.
 
