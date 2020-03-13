@@ -14,7 +14,7 @@ This folder contains:
 - RDPZlib64.pas wrapper for zlib deflate
 - RDPWebBroker64.pas utils to enhance webbroker web apps
 - IsapiTest.zip webbroker scalable app example
-- SeaIISFilter.zip ultra-fast realtime zlib compression for IIS web server (5x faster than default gzip)
+- SeaIISFilter ultra-fast realtime zlib compression for IIS web server (5x faster than default gzip)
 - License.txt for legal terms
 
 The final user deployment is donateware. Please contact me roberto.dellapasqua@live.com or www.dellapasqua.com
