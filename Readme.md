@@ -1,6 +1,6 @@
 Sea RTL subset for Delphi 64bit
 
-Object Pascal wrappers from Intel IPP and Intel TBB royalty-free packages
+Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages
 
 Copyright 17 June 2019 Roberto Della Pasqua (updated 9 March 2020)
 
