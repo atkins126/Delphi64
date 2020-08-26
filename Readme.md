@@ -33,6 +33,8 @@ If you want enable accelerated zlib programmatically into your WebBroker app, ju
 - Response.ZlibDeflate; 
 - end;
 
+btw. rem // RedirectCode(@System.Move, @Move2); in RDPSimd64 if you have single threaded app with smallest ram allocations
+
 The library is well tested, but if you found any trouble please notify me.
 
 Thank you and best regards
